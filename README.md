@@ -90,4 +90,5 @@ Fortement inspiré du [TP d'Aurélien Bénel](https://github.com/benel/TP-Git).
 * Toulmonde Joris,
 * Godefroy Thieular,
 * Basset Hector,
-* Dezere Florian;
+* Dezere Florian
+pqgjerghq******;
