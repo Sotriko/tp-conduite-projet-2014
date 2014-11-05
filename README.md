@@ -67,19 +67,16 @@ Fortement inspiré du [TP d'Aurélien Bénel](https://github.com/benel/TP-Git).
 * A Louis Chevalier,
 * Pancher Pierre-louis,
 * Le Deunf Meryem,
-<<<<<<< HEAD
-* Met-Montot Bertille.
-* Quesnel Guillaume.
-* Simon Roger.
-* Simon Roger.
-* Virgil Deschamps.
-* Tony Merrien.
-* Rémi Plantade.
-* A Louis Chevalier.
-* Pancher Pierre-louis.
-* A Thibault Gauran
-* Provost Valentin
-=======
+* Met-Montot Bertille,
+* Quesnel Guillaume,
+* Simon Roger,
+* Virgil Deschamps,
+* Tony Merrien,
+* Rémi Plantade,
+* A Louis Chevalier,
+* Pancher Pierre-louis,
+* A Thibault Gauran,
+* Provost Valentin,
 * Met-Montot Bertille,
 * Quesnel Guillaume,
 * Simon Roger,
@@ -94,4 +91,3 @@ Fortement inspiré du [TP d'Aurélien Bénel](https://github.com/benel/TP-Git).
 * Godefroy Thieular,
 * Basset Hector,
 * Dezere Florian;
->>>>>>> cca1309d18a48f741c3d682426e8b6488ec97cea
