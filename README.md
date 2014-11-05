@@ -92,3 +92,10 @@ Fortement inspiré du [TP d'Aurélien Bénel](https://github.com/benel/TP-Git).
 * Basset Hector,
 * Dezere Florian
 pqgjerghq******;
+* Godefroy Thieulart,
+* Basset Hector,
+* Guedouard Wajdi,
+* Godefroy Thieulart,
+* Basset Hector,
+* Dezere Florian,
+* Lemée Arthur;
